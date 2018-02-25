@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="BBS-src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_144">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="lib/jetty-6.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-util-6.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api-2.5-6.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/ext/jetty-html-6.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/jasper-compiler-5.5.15.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/jasper-compiler-jdt-5.5.15.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/jasper-runtime-5.5.15.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/jcl104-over-slf4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/jsp-api-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/slf4j-simple-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.0/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.1/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.1/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.1/jsp-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-2.1/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/management/jetty-management-6.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/management/mx4j-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/management/mx4j-tools-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/naming/jetty-naming-6.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/plus/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/plus/jetty-plus-6.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/plus/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/xbean/jetty-xbean-6.0.2.jar"/>
+	<classpathentry kind="output" path="BBS-build/classes"/>
+</classpath>
